@@ -1,0 +1,9 @@
+.alert-error {
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+}
+
+.alert-success {
+    background-color: greenyellow;
+}

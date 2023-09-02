@@ -1,0 +1,18 @@
+.add-property {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+  }
+
+label {
+    padding-right: 150px;
+    margin-bottom: 10px;
+}
+
+.add-property-form {
+    width: 300px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 6.5px;
+}
