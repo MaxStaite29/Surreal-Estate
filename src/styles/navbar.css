@@ -13,6 +13,7 @@
     margin: 0;
     padding: 0;
     display: inline-block;
+
 }
 
 .navbar-links-item {
@@ -22,4 +23,9 @@
     display: inline-block;
     justify-self: center;
     font-size: 14px;
+    text-decoration: none;
+}
+
+.navbar-links-item > a {
+    text-decoration: none;
 }
